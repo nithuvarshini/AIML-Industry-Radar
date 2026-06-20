@@ -1,0 +1,31 @@
+{
+    "programming_languages": [
+        "Python",
+        "SQL",
+        "UNIX"
+    ],
+    "frameworks_libraries": [],
+    "databases": [],
+    "cloud_platforms": [
+        "Azure"
+    ],
+    "aiml_technologies": [
+        "AI",
+        "Anomaly Detection",
+        "Azure AI Search",
+        "Classification",
+        "Clustering",
+        "Feature Engineering",
+        "Machine Learning",
+        "NLP",
+        "Statistical Analysis"
+    ],
+    "data_engineering_tools": [],
+    "mlops_tools": [
+        "Agile",
+        "GitLab",
+        "Jira",
+        "MLOps",
+        "Version Control"
+    ]
+}

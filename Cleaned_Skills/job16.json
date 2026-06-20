@@ -1,0 +1,46 @@
+{
+    "programming_languages": [
+        "Python",
+        "TypeScript"
+    ],
+    "frameworks_libraries": [
+        "Alembic",
+        "Flask",
+        "Flask-Migrate",
+        "Jest",
+        "Next.js",
+        "OpenSeaDragon",
+        "Playwright",
+        "REST APIs",
+        "React",
+        "React Testing Library",
+        "Recharts",
+        "SQLAlchemy",
+        "Tailwind CSS",
+        "Tiptap",
+        "pytest"
+    ],
+    "databases": [
+        "PostgreSQL"
+    ],
+    "cloud_platforms": [
+        "Cloud Run",
+        "Cloud SQL",
+        "Cloud Storage",
+        "GCP",
+        "Google Cloud Tasks",
+        "Modal",
+        "Vercel"
+    ],
+    "aiml_technologies": [
+        "AI",
+        "Computer Vision",
+        "Machine Learning"
+    ],
+    "data_engineering_tools": [],
+    "mlops_tools": [
+        "CI/CD",
+        "Docker",
+        "GitHub Actions"
+    ]
+}

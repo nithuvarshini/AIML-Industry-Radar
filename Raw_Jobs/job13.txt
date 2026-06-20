@@ -1,0 +1,83 @@
+High velocity, high intensity, high trust, high bar, high impact, and a will to win.
+
+If those words resonate deeply with you, this could be your next career move. We're seeking someone who leads with humility, pursues audacious goals, and is motivated by meaningful impact on people and the world.
+
+At FutureFit AI, our core mission is to help more people get to better jobs faster and cheaper, with a specific focus on those facing barriers to opportunity. Our work helps resolve the growing issue of economic inequality, ensuring that no one is left behind in the future of work. Our AI-powered platform brings efficiency and insight to workforce development, replacing outdated systems and unlocking human potential at scale.
+
+Ready to make an impact? Apply today.
+
+Important note: Data shows that men typically apply when meeting 3/10 requirements, while women often wait until it's 10/10. We encourage you to apply if you see a strong (not necessarily perfect) fit.
+
+Your Role
+We're seeking a Data Scientist to join our team. You will build the models at the heart of our product: the systems that connect people to the right jobs, skills, and pathways. This is hands-on, applied data science on real workforce problems, working with skills and occupation taxonomies, labor market data, and the matching and recommendation systems that turn that data into better outcomes for job seekers. You will partner closely with Engineering, Product, and our Director of Data & AI to take models from idea to production.
+
+What You'll Own
+Applied modelling: Build, evaluate, and ship models for matching, recommendation, and ranking that directly shape the job seeker experience.
+Skills and jobs data: Work with skills, occupation, and career taxonomies and labor market data, improving how we represent and reason about the world of work.
+Production partnership: Collaborate with Engineering to move models into production reliably, and monitor and improve them once they are live.
+Clear analysis: Translate messy, real-world data into clear findings and recommendations that the team and our customers can act on.
+Required Experience
+Strong applied data science experience (roughly 4+ years), with a track record of shipping models that made it into a real product
+Explicit jobs-and-skills or workforce data experience, OR experience with closely related data where there is a clear pathway to apply it to workforce problems (this is a firm criterion for the role)
+Fluency in Python and SQL, and solid grounding in machine learning, NLP, and recommendation/matching techniques
+Comfort working with large, imperfect datasets and making sound judgment calls about them
+Clear communication: you can explain a model and its tradeoffs to a non-technical audience
+Bonus Points
+Experience with recommender systems, ranking, or search at scale
+Familiarity with skills/occupation frameworks (e.g. O*NET, ESCO) or HR/labor market data
+Experience pairing classical ML with LLMs, including where to use each and how to add guardrails
+Publications, presentations, blog posts, or other public artifacts showcasing your expertise and depth of knowledge in data science
+Our Tech Stack for Data
+Languages: Python, SQL
+Machine learning and NLP: scikit-learn, modern NLP and embedding tooling, AWS SageMaker
+Data orchestration and transformation: Airflow, dbt
+Data storage and warehousing: PostgreSQL, Redshift, MongoDB
+Visualization and reporting: Looker
+Your Education
+Your alma mater isn't our focus. Your grit, hunger, and drive are. If you learn continuously, tackle challenges head-on, and know your strengths and gaps intimately, you're our person.
+
+Location
+We are open to candidates living anywhere in Canada or the US. For candidates living in Toronto, our office is conveniently located at 325 Front St West (a short walk from Union Station).
+
+Travel Expectations
+Although this role is remote, you may be expected to travel up to once per quarter for offsites and team gatherings.
+
+Compensation
+The base salary range for this role is USD $100,000 to $140,000 for candidates based in New York and CAD $110,000 to $155,000 for candidates based in Toronto, benchmarked to the middle of the market for comparable venture-backed companies. This range reflects the varying levels of expertise and responsibilities that will be determined through the interview process, based on applied experience and other criteria established by the hiring committee. Compensation ranges are reviewed regularly and adjusted to reflect market conditions and cost of living in each location.
+
+Hiring Journey
+At FutureFit AI, our hiring process is designed to help you assess whether this role and our culture are the right fit based on your unique skills, mindset, and experiences. We move fast and work with intensity, so we want you to get a real sense of that from the start.
+
+Each journey includes a mix of interviews and a performance challenge. For this role, that might look like:
+
+Online Application
+Initial Screen with Director of People & Culture
+Interview with Hiring Manager
+Performance Challenge
+Final 1:1 Interviews
+Final Decision
+Generally, this entire process takes around 6 weeks, although the timing can vary due to specific candidate circumstances.
+
+Ready to shape the future of work?
+At FutureFit AI, we're not just building a company—we're transforming how talent and opportunity connect. Join our driven team united by a commitment to job seekers and the workforce ecosystems we serve.
+
+Company Snapshot:
+Team: 30-50 across US and Canada (hubs in NYC and Toronto)
+Customers: Workforce development agencies and intermediaries, government agencies, employers
+Industry: SaaS/AI technology
+Funding: Bootstrapped 0-1, then raised funding led by JP Morgan
+Structure: Growth, Customer Success, Product, Engineering, Data, People & Culture, Finance & Operations
+Our Core Principles
+Be Curious
+Drive to Outcomes
+Raise the Bar
+Speed Matters
+Own It
+We Over Me
+Use of AI in Hiring
+At FutureFit, we use artificial intelligence (AI) tools to make our hiring process more efficient, consistent, and equitable—never to replace human judgment. We use AI in the following ways:
+
+Screening support: AI may help us compare applications against the skills and experience required for a specific role. These skills are defined by the hiring team for each position. A human reviews each application, with the AI assessment as just one input.
+Interview support: In some interviews, we may use an AI notetaker to summarize the discussion so interviewers can focus on being present in the conversation.
+Insights, not decisions: AI provides data points to support our team’s evaluation but does not make or recommend final hiring decisions. Every hiring decision is made by people.
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, perform essential job functions, and receive other benefits and privileges of employment. Please contact us to request an accommodation.

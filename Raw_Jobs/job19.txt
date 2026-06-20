@@ -1,0 +1,106 @@
+We are a fast-growing company building products in the fintech, gaming, and consumer technology industries. Our team currently operates a cashless gaming platform and is preparing to launch a sports gaming fintech platform. We are actively enhancing existing products while building new technology and working with enterprise and white-label partners. We are looking for a Founding Engineer who wants to help build products from the ground floor, move quickly, and play a major role in shaping the future of our technology stack.
+
+About The Role
+
+This is not a corporate engineering position. We are looking for someone who enjoys building. You will work directly with our development team and leadership to help accelerate development, improve product quality, and support the growth of multiple technology platforms. Initially, this role will be highly hands-on and focused on shipping product. Over time, this person will have the opportunity to help shape our engineering team as the company grows.
+
+Responsibilities
+
+Product Development
+
+Build and maintain mobile and web application features
+Contribute to frontend and backend development
+Help accelerate product development timelines
+Participate in architecture and technical design discussions
+Build scalable systems that support future growth
+Platform Development
+
+Help build infrastructure that supports multiple products and brands
+Contribute to future white-label platform capabilities
+Support custom partner implementations when needed
+Build reusable systems that can scale across multiple applications
+Code Quality
+
+Review code and identify improvements
+Help maintain high development standards
+Assist with debugging and troubleshooting
+Improve application performance and reliability
+Help reduce technical debt
+Team Collaboration
+
+Work closely with developers, designers, and product leadership
+Participate in planning and development meetings
+Help ensure projects stay on track
+Contribute ideas and technical recommendations
+Future Leadership
+
+As the company grows, this role may evolve into a technical leadership position with opportunities to:
+
+Help build an in-house engineering team
+Mentor developers
+Improve development processes
+Assist with hiring and technical evaluations
+Technology Stack
+
+Current technologies include:
+
+Frontend
+React Native
+
+Backend
+Java
+.NET
+
+Databases
+Microsoft SQL Server
+MongoDB
+
+Infrastructure
+Azure
+Windows Server
+
+Experience with some or all of these technologies is preferred.
+
+Ideal Candidate
+
+You may be a strong fit if you:
+
+Enjoy building products from scratch
+Thrive in startup environments
+Take ownership of your work
+Can work independently
+Are comfortable moving quickly
+Care about product quality
+Like solving difficult technical problems
+Want to help shape the future of a growing company
+Preferred Experience
+
+Full-stack development
+Mobile application development
+React Native
+Java
+.NET
+Azure
+Payment systems
+Fintech products
+Gaming or sports betting products
+Startup experience
+What Success Looks Like
+
+Within your first 6 months:
+
+Product development velocity increases
+New features are released faster
+Product quality improves
+Technical bottlenecks are reduced
+White-label infrastructure progresses
+The engineering team becomes more efficient
+Key product launches remain on schedule
+Why Join
+
+Early-stage opportunity with meaningful impact
+Direct access to leadership
+Ability to influence technical decisions
+Equity opportunity
+Multiple products and technologies to work on
+Opportunity to help build a long-term engineering organization

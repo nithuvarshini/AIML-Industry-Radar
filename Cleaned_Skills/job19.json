@@ -1,0 +1,19 @@
+{
+    "programming_languages": [
+        "Java"
+    ],
+    "frameworks_libraries": [
+        ".NET",
+        "React Native"
+    ],
+    "databases": [
+        "Microsoft SQL Server",
+        "MongoDB"
+    ],
+    "cloud_platforms": [
+        "Azure"
+    ],
+    "aiml_technologies": [],
+    "data_engineering_tools": [],
+    "mlops_tools": []
+}

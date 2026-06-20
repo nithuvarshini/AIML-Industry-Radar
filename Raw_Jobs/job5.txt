@@ -1,0 +1,38 @@
+We are looking for an experienced Lead AI Engineer to pioneer innovative AI and machine learning solutions, shaping the development and deployment of cutting-edge generative AI applications. This role offers the opportunity to lead the charge in creating AI-driven efficiencies and impactful business outcomes while collaborating with diverse teams across the organization.
+
+ 
+
+Responsibilities
+
+Build and deploy scalable AI/ML models and GenAI solutions in production
+Design and maintain robust ETL pipelines and data workflows
+Develop LLM-based applications using modern frameworks
+Implement prompt engineering techniques for optimized AI outputs
+Deploy models via APIs and integrate with enterprise applications
+Ensure end-to-end ownership, including development, deployment, monitoring, and optimization
+Collaborate with cross-functional teams to deliver business-driven AI solutions
+ 
+
+Requirements
+
+8-13 years of general IT experience
+8+ years of experience in AI Engineering
+At least 1 year of relevant leadership experience
+Strong programming skills in Python
+Hands-on experience with ETL and Data Pipelines
+Expertise in ML/DL frameworks such as TensorFlow, PyTorch, Scikit-learn
+Understanding of Prompt Engineering and working with LLMs
+Familiarity with LLM frameworks like LangChain, LlamaIndex, Hugging Face
+Cloud experience with Azure, AWS, or GCP
+Proficiency in MLOps tools like MLflow, Kubeflow, Airflow
+Strong experience in API development and Model Deployment
+B2 level of English or higher, with an emphasis on technical communication skills
+ 
+
+Nice to have
+
+Experience with RAG architectures and vector databases
+Knowledge of real-time or streaming data pipelines
+Exposure to scalable system design and microservices architecture
+Showcase of expertise in Databricks, PySpark
+Background in Cloud Data Solutions and ETL Pipelines

@@ -1,0 +1,22 @@
+{
+    "programming_languages": [],
+    "frameworks_libraries": [
+        "Deep Learning Frameworks"
+    ],
+    "databases": [],
+    "cloud_platforms": [
+        "Cloud"
+    ],
+    "aiml_technologies": [
+        "AI",
+        "Machine Learning",
+        "Generative AI",
+        "Deep Learning",
+        "Neural Networks",
+        "Chatbots",
+        "Image Processing",
+        "LLMs"
+    ],
+    "data_engineering_tools": [],
+    "mlops_tools": []
+}

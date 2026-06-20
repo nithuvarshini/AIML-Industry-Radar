@@ -1,0 +1,41 @@
+At Platform Science, we’re working to connect everything that moves. Founded in 2015, we are an open IoT platform that partners with innovative fleets, application developers, vehicle manufacturers, and equipment providers in the transportation industry to deliver revolutionary solutions to supply chain professionals across the globe.
+
+Our employees are an engaging, diverse group of people who believe in the power of great ideas. We hire people with different experiences and perspectives to build a company culture that fuels growth through innovation. We value thoughtful actions and empathy for others. We approach challenges with resiliency and creativity, while encouraging transparency because, no matter our backgrounds or responsibilities, we are one team.
+
+About the Role
+Platform Science is looking for a Data Engineer for our Core Product Development team in Chennai. In this role, you will be heavily involved in the design and development of data solutions leveraging Power BI and Snowflake.
+
+You will apply advanced data mining techniques, perform statistical analysis, and build high-quality prediction systems integrated directly into our global software products to transform raw IoT and telematics data into actionable business intelligence.
+
+Essential Responsibilities
+Data Mining & Feature Engineering: Select key features, build and optimize classifiers using machine learning techniques, and perform data mining using state-of-the-art methods.
+Pipeline Integration: Extend the company’s data infrastructure with third-party sources of information and enhance data collection procedures to include all data relevant for building robust analytic systems.
+Data Quality Assurance: Process, cleanse, and verify the integrity of large-scale datasets used for downstream analytics and predictive modeling.
+Analysis & Automation: Perform ad-hoc analysis, present insights clearly to stakeholders, and build automated anomaly detection systems while continuously tracking their performance.
+Agile Collaboration: Act as an active member of an agile development team, participating in Scrum ceremonies, sprint planning, and the collective execution of work items.
+Team Communication: Communicate transparently about your daily tasks and any obstacles encountered, while freely giving and receiving technical assistance within the team.
+Target Capabilities & Skills
+Experience: 1 to 3 years of hands-on experience in data engineering, data science, or advanced data analytics.
+Core Technical Stack: Advanced proficiency in Power BI and Snowflake.
+Programming Languages: Core coding skills in Python (highly preferred) or R.
+Advanced Analytics & IoT: Strong experience in IoT analytics, Machine Learning, AI, and time-series analysis utilizing streaming sensor data.
+Mathematical & Operational Modeling: Solid background in Mathematics and Statistics, including Operations Research (e.g., Hidden Markov Models), Linear programming, optimization algorithms, and complex problem modeling.
+Other Requirements
+Communication: Excellent oral and written communication skills for effective cross-border collaboration.
+Mindset: A fast-learning self-starter with a deep passion for adopting new technologies and a strong sense of ownership to get things done.
+Problem Solving: Exceptional analytical thinking and complex problem-solving abilities.
+Team Dynamics: A reliable team player who works seamlessly within a small team environment but remains fully capable of delivering high-quality, performant solutions independently.
+Benefits
+The company offers various benefits to regular, full-time employees including:
+
+Provident fund and gratuity in accordance with applicable laws.
+Paid vacation, sick leave and holidays, in accordance with applicable laws.
+Twenty-Six weeks of paid maternity leave in accordance with applicable laws.
+(Note: The compensation details listed in India role postings reflect the base salary only, and do not include bonus, equity, or benefits.)
+
+Legal & Privacy Disclaimers
+Platform Science collects your personal information to support its business operations, including for human resources, employment, benefits administration, health and safety, and other business-related purposes as well as to be in legal compliance. You can review further details of such collection and use in our Privacy Policy (https://www.platformscience.com/privacy-notice).
+
+Please note: This document is a description of a potential position with our company. Nothing within this document may be construed as an offer for employment or a promise of benefit or remuneration. Further, any representation made within this document is subject to the laws and restrictions of the jurisdiction where employment may be deemed to occur. The parameters and availability of this position are subject to change and based solely within the discretion of the company. In addition, the duties, responsibilities, and scope of this position may not be fully represented in this description or may change as required by the Company.
+
+Platform Science is an equal opportunity employer. All applicants will be considered for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, or disability status.

@@ -1,0 +1,37 @@
+{
+    "programming_languages": [
+        "Python"
+    ],
+    "frameworks_libraries": [
+        "Django"
+    ],
+    "databases": [
+        "MySQL"
+    ],
+    "cloud_platforms": [
+        "Cloud Platforms"
+    ],
+    "aiml_technologies": [
+        "AI",
+        "Autonomous Technologies",
+        "Computer Vision",
+        "LLMs",
+        "Multimodal AI",
+        "Object Detection",
+        "Robotics",
+        "Segmentation",
+        "VLMs",
+        "Visual Understanding"
+    ],
+    "data_engineering_tools": [
+        "Data Pipelines"
+    ],
+    "mlops_tools": [
+        "Deployment Pipelines",
+        "ML Pipelines",
+        "ML Workflows",
+        "MLOps",
+        "Model Evaluation",
+        "Training Pipelines"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "programming_languages": [
+        "Python"
+    ],
+    "frameworks_libraries": [
+        "ML Frameworks",
+        "PyTorch",
+        "Scikit-Learn"
+    ],
+    "databases": [
+        "Graph Databases",
+        "Vector Databases"
+    ],
+    "cloud_platforms": [],
+    "aiml_technologies": [
+        "AI",
+        "Clustering",
+        "Data Augmentation",
+        "Decision Trees",
+        "Embedding Models",
+        "Explainable AI",
+        "Feature Engineering",
+        "Graph Neural Networks",
+        "Graph-based Recommendation Systems",
+        "Information Retrieval",
+        "Learn-to-Rank",
+        "Machine Learning",
+        "OCR",
+        "Ranking Systems",
+        "Recommendation Systems",
+        "Vectorization"
+    ],
+    "data_engineering_tools": [
+        "Data Curation",
+        "Data Engineering",
+        "Data Processing",
+        "Data Synthesis",
+        "Dataset Engineering"
+    ],
+    "mlops_tools": [
+        "A/B Testing",
+        "Batch Inference",
+        "CI/CD",
+        "Deployment",
+        "ML Engineering",
+        "ML Lifecycle",
+        "ML Model Serving",
+        "ML Pipelines",
+        "MLOps",
+        "Model Evaluation",
+        "Model Observability",
+        "Observability",
+        "Packaging",
+        "Pipeline Automation",
+        "Streaming Inference",
+        "Tracing"
+    ]
+}

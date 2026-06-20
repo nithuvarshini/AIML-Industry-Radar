@@ -1,0 +1,30 @@
+{
+    "programming_languages": [
+        "Python"
+    ],
+    "frameworks_libraries": [],
+    "databases": [],
+    "cloud_platforms": [],
+    "aiml_technologies": [
+        "Classification",
+        "Document Processing",
+        "Entity Extraction",
+        "Machine Learning",
+        "Natural Language Processing",
+        "OCR",
+        "Supervised Learning",
+        "Text Processing"
+    ],
+    "data_engineering_tools": [],
+    "mlops_tools": [
+        "CI/CD",
+        "ML Pipelines",
+        "MLOps",
+        "Model Deployment",
+        "Model Evaluation",
+        "Model Monitoring",
+        "Model Versioning",
+        "Production ML Systems",
+        "Regression Testing"
+    ]
+}

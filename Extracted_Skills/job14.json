@@ -1,0 +1,22 @@
+{
+    "programming_languages": [
+        "Python"
+    ],
+    "frameworks_libraries": [
+        "Jupyter Hub"
+    ],
+    "databases": [
+        "SQL",
+        "Clickhouse"
+    ],
+    "cloud_platforms": [],
+    "aiml_technologies": [
+        "AI",
+        "Machine Learning",
+        "Automation"
+    ],
+    "data_engineering_tools": [],
+    "mlops_tools": [
+        "GitHub"
+    ]
+}

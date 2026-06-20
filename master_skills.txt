@@ -1,0 +1,88 @@
+Python
+SQL
+Java
+C++
+JavaScript
+TypeScript
+
+Machine Learning
+Deep Learning
+Natural Language Processing
+Computer Vision
+Generative AI
+LLMs
+RAG
+Prompt Engineering
+Embeddings
+Fine-Tuning
+Model Evaluation
+Recommendation Systems
+Feature Engineering
+
+PyTorch
+TensorFlow
+Scikit-Learn
+LangChain
+LlamaIndex
+AutoGen
+CrewAI
+LangGraph
+
+AWS
+Azure
+GCP
+AWS SageMaker
+Vertex AI
+Azure OpenAI Service
+
+Docker
+Kubernetes
+MLflow
+Kubeflow
+Airflow
+Spark
+Kafka
+Databricks
+
+PostgreSQL
+MySQL
+MongoDB
+Snowflake
+Redshift
+
+Pinecone
+Weaviate
+Qdrant
+ChromaDB
+pgvector
+
+Git
+CI/CD
+MLOps
+
+Power BI
+Tableau
+Looker
+
+ETL
+Data Pipelines
+Data Warehousing
+
+Pandas
+NumPy
+
+Hugging Face
+
+Neural Networks
+Clustering
+Classification
+Regression
+Anomaly Detection
+Time Series Forecasting
+
+Graph Neural Networks
+Knowledge Graphs
+
+OCR
+
+Vector Databases

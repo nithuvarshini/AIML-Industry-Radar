@@ -1,0 +1,46 @@
+About the job
+Project Role : AI / ML Engineer
+
+Project Role Description : Develops applications and systems that utilize AI tools, Cloud AI services, with proper cloud or on-prem application pipeline with production ready quality. Be able to apply GenAI models as part of the solution. Could also include but not limited to deep learning, neural networks, chatbots, image processing.
+
+Must have skills : Large Language Models (LLMs)
+
+Good to have skills : NA
+
+Minimum 3 Year(s) Of Experience Is Required
+
+Educational Qualification : 15 years full time education
+
+Summary:
+
+As an AI / ML Engineer, a typical day involves designing and building advanced applications and systems that leverage artificial intelligence technologies. This role requires integrating cloud-based or on-premises pipelines to ensure solutions are production-ready and scalable. The work often includes applying generative AI models to solve complex problems and may extend to areas such as deep learning, neural networks, chatbot development, and image processing. Collaboration with cross-functional teams to align AI capabilities with project goals is a key aspect of daily activities, fostering innovation and continuous improvement in AI-driven solutions.
+
+Roles & Responsibilities:
+
+ Expected to perform independently and become an SME.
+ Required active participation/contribution in team discussions.
+ Contribute in providing solutions to work related problems.
+ Collaborate with team members to enhance AI model performance and deployment strategies.
+ Assist in documenting technical processes and best practices to support knowledge sharing.
+ Support junior team members by providing guidance and sharing expertise.
+ Continuously monitor and optimize AI applications to maintain high efficiency and reliability.
+
+
+Professional & Technical Skills:
+
+ Must To Have Skills: Proficiency in Large Language Models (LLMs).
+ Experience with designing and implementing AI pipelines for cloud and on-premises environments.
+ Strong understanding of generative AI model applications and integration techniques.
+ Familiarity with deep learning frameworks and neural network architectures.
+ Ability to develop and deploy AI-driven chatbots and image processing solutions.
+ Skilled in troubleshooting and optimizing AI systems for production readiness.
+
+
+Additional Information:
+
+ The candidate should have minimum 3 years of experience in Large Language Models (LLMs).
+ This position is based at our Coimbatore office.
+ A 15 years full time education is required.
+
+
+, 15 years full time education

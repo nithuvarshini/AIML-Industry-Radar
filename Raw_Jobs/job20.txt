@@ -1,0 +1,41 @@
+AI is about to flood the market with new drug candidates. Clinical research sites, responsible for conducting trials, are the bottleneck to FDA approval. Their back-office operations are often manual, fragmented, and incredibly complex.
+
+We’re rebuilding the entire back-office from the ground up to help sites focus on their core mission: advancing life-saving research.
+
+Our AI agents manage millions of dollars in trial budgets. They structure unstructured data, determine what sites are owed, and recover it.
+
+We were founded by operators behind the Robinhood Gold Card: David, who led bizops at Standard Fleet and X1 (acquired by Robinhood), and Vijay, a Georgia Tech AI PhD who previously worked at X1, Google, and Twitter.
+
+This is the same problem we ran at X1 & Robinhood. Reconciling what was owed against what actually moved, at scale, with money on the line. We're doing it again here, for clinical research.
+
+We just closed a seed round (announcing soon) and we're hiring our founding team.
+
+Role Overview
+
+You'll report directly to Vijay, our CTO. You'll own the systems that automate the entire financial lifecycle for clinical research sites: integrations with banks, CTMS platforms, payment portals, and our AI agents.
+
+Stack: Golang backend, Temporal for workflow orchestration and batch jobs, Postgres for relational data, Redis for caching, Docker Compose for local dev.
+
+This is a rare early engineering role. You'll work directly with customers, shape the product roadmap, and build the technical foundation of the platform. We're looking for someone who acts like an owner, wants to modernize healthcare infrastructure, and is comfortable on a customer call.
+
+Responsibilities
+
+Own the end-to-end development of our core financial system
+Design and scale backend services in Golang and Temporal
+Build deep integrations with banks, CTMS, payment portals, and our AI engine
+Work directly with customers on integrations and feed back into the roadmap
+You'll do well here if you:
+Can take a vague goal, i.e. "the invoice totals don’t match payments sums", and decide what matters before writing code.
+Have shipped a system end-to-end yourself: you sized it, built it, rolled it out, and watched it in production.
+Write code with meticulous precision. The movement of money through this product demands exceptionally careful engineering.
+Prioritize studying existing codebases, SQL, and migrations over reflexively adding new code.
+Partner directly with the people on the other side of your code, customers & cofounders, without needing layers in between.
+Treat AI tools as leverage, not a substitute for understanding what you shipped.
+Bonus, not required: you've worked on a ledger, a billing system, an EHR, or anything else where being wrong has a dollar amount attached. If you haven't, curiosity about the clinical-trial domain and fin-tech matters more than prior exposure.
+
+Compensation & Benefits
+
+$150k–$275k base salary + meaningful founding equity
+100% employer-paid medical, dental, and vision
+Unlimited PTO
+Whatever MacBook and monitor setup you want

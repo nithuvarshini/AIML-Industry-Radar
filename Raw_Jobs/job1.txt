@@ -1,0 +1,38 @@
+About the job
+VenPep Group is hiring a Senior AI Engineer to architect and build advanced AI/ML solutions that drive intelligent automation and decision-making. You will specialize in designing context-specific MCP (Model Context Protocol) servers, building production-grade RAG pipelines, and enabling next-generation AI-assisted development workflows including vibe coding practices.
+
+Key Responsibilities
+
+Design, build, and deploy context-specific MCP (Model Context Protocol) servers tailored to business domains, integrating tools, APIs, and data sources as structured AI-accessible capabilities 
+Architect and manage end-to-end RAG (Retrieval-Augmented Generation) pipelines: document ingestion, chunking strategies, embedding generation, vector store management, and retrieval optimization 
+Select, configure, and manage vector databases (Pinecone, Weaviate, ChromaDB, pgvector) for semantic search and knowledge retrieval at scale 
+Design agentic AI workflows using frameworks like LangChain, LlamaIndex, AutoGen, or CrewAI, orchestrating multi-step reasoning and tool use 
+Implement and maintain LLM integrations (OpenAI, Anthropic Claude, LLaMA, Mistral) including prompt engineering, context window management, and fine-tuning pipelines 
+Champion vibe coding practices — leveraging AI-assisted development tools (Cursor, GitHub Copilot, Claude Code) to accelerate engineering velocity across the team 
+Build scalable AI infrastructure on cloud platforms (AWS Bedrock, Azure OpenAI Service, or GCP Vertex AI) 
+Conduct model evaluation, retrieval quality benchmarking, and continuous improvement of AI system accuracy 
+Mentor junior AI engineers on MCP architecture, RAG best practices, and responsible AI development 
+Stay current with AI research and translate emerging techniques into production-ready solutions 
+
+Requirements
+
+5 to 7 years of experience in AI/ML engineering with a focus on applied LLM and generative AI 
+Hands-on experience designing and deploying MCP (Model Context Protocol) servers — defining tool schemas, resource endpoints, and prompt templates for domain-specific AI agents 
+Deep expertise in RAG system design: chunking strategies, embedding models (OpenAI, Cohere, sentence-transformers), retrieval pipelines, re-ranking, and hybrid search 
+Strong proficiency in Python and LLM orchestration frameworks: LangChain, LlamaIndex, or equivalent 
+Experience with vector databases: Pinecone, Weaviate, ChromaDB, Qdrant, or pgvector 
+Proficiency with OpenAI API, Anthropic API, Azure OpenAI Service, or AWS Bedrock 
+Familiarity with vibe coding workflows and AI-assisted development tools (Cursor, GitHub Copilot, Claude Code) 
+Experience deploying AI services to production using Docker, Kubernetes, or serverless (Lambda/Azure Functions) 
+Strong understanding of prompt engineering, system prompt design, and context management techniques 
+Excellent research, problem-solving, and technical communication skills 
+
+NICE TO HAVE
+
+Contributions to open-source MCP server implementations or AI agent frameworks 
+Experience with fine-tuning LLMs: LoRA, QLoRA, or full fine-tuning on domain-specific datasets 
+Knowledge of real-time inference optimization: model quantization, ONNX, vLLM, or TGI 
+Familiarity with evaluation frameworks for RAG quality: RAGAS, TruLens, or DeepEval 
+Experience with agentic AI platforms: AutoGen, CrewAI, or custom multi-agent orchestration 
+
+Skills: servers,azure,prompt

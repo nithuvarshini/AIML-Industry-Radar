@@ -1,0 +1,21 @@
+Experience in AI/ML engineering, with at least 3+ years in LLM-based solutions.
+
+Strong proficiency in Python and experience with pro-code agent development.
+
+Hands-on experience with multi-agent frameworks (e.g., LangGraph, AutoGen, CrewAI, Swarm).
+
+Deep understanding of LLM orchestration, prompt engineering, and tool integration.
+
+Familiarity with vector databases, retrieval-augmented generation (RAG), and knowledge graphs.
+
+Experience deploying AI solutions on cloud platforms with a focus on agent deployment and orchestration
+
+Azure Cloud – Azure AI services, Kubernetes, and agent orchestration pipelines.
+
+Google Cloud Platform (GCP) – AI/ML services, Vertex AI, containerized agent deployment.
+
+Proficiency with Google AI Developer Kit (ADK) for building and integrating AI solutions.
+
+Knowledge of observability tools for AI agents and evaluation frameworks.
+
+Strong problem-solving skills and ability to work in fast-paced, innovative environments.

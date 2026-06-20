@@ -1,0 +1,35 @@
+{
+    "programming_languages": [
+        "Python",
+        "SQL",
+        "Ruby"
+    ],
+    "frameworks_libraries": [
+        "Rails",
+        "Looker",
+        "Tableau"
+    ],
+    "databases": [
+        "Snowflake",
+        "BigQuery",
+        "Redshift"
+    ],
+    "cloud_platforms": [
+        "AWS",
+        "GCP",
+        "Azure"
+    ],
+    "aiml_technologies": [
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Data Analytics",
+        "Data Science"
+    ],
+    "data_engineering_tools": [
+        "Airflow",
+        "Kafka",
+        "Kinesis",
+        "ETL/ELT"
+    ],
+    "mlops_tools": []
+}

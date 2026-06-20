@@ -1,0 +1,36 @@
+{
+    "programming_languages": [
+        "Python",
+        "R"
+    ],
+    "frameworks_libraries": [],
+    "databases": [
+        "BigQuery",
+        "SQL Server",
+        "Snowflake"
+    ],
+    "cloud_platforms": [
+        "AWS"
+    ],
+    "aiml_technologies": [
+        "Anomaly Detection",
+        "Clustering",
+        "Forecasting",
+        "Machine Learning",
+        "Optimization",
+        "Recommendation Systems",
+        "Regression",
+        "Statistics",
+        "Supervised Machine Learning",
+        "Trend Prediction",
+        "Unsupervised Machine Learning"
+    ],
+    "data_engineering_tools": [
+        "Flink",
+        "Kafka"
+    ],
+    "mlops_tools": [
+        "AWS SageMaker",
+        "Prefect"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "programming_languages": [
+        "C++",
+        "Go",
+        "JavaScript",
+        "Python"
+    ],
+    "frameworks_libraries": [
+        "GraphQL",
+        "ROS",
+        "React"
+    ],
+    "databases": [],
+    "cloud_platforms": [],
+    "aiml_technologies": [
+        "Autonomy",
+        "Robotics"
+    ],
+    "data_engineering_tools": [],
+    "mlops_tools": [
+        "Docker",
+        "Kubernetes"
+    ]
+}

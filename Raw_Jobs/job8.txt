@@ -1,0 +1,41 @@
+Applied Machine Learning Engineer
+Location: New York City
+
+About Tracera
+
+Tracera is a fast-growing Series A SaaS company transforming how organizations manage sustainability reporting and supply chain compliance. As regulations tighten and transparency becomes essential, we help enterprises turn complex ESG and supply chain data into actionable insight, freeing teams from manual reporting and enabling better decisions. Backed by leading investors and emerging from Bain & Company’s Venture Incubator, we’re scaling quickly from early traction toward our next major growth milestone.
+
+The Role
+
+We’re hiring an Applied Machine Learning Engineer to help build the intelligence layer behind our platform, with a particular focus on a new product initiative. This is a high-impact role where you’ll operate as a founding engineer on a new area of the product, working closely with customers to understand real-world problems and turning them into scalable ML systems. You’ll be involved end to end, from shaping ideas and experimenting with models through to building production-ready systems that deliver value for enterprise users. This role is well suited to someone with 1 to 5 years of experience who combines strong technical fundamentals with an engineering mindset and enjoys building things from scratch in a fast-paced environment.
+
+What You’ll Be Doing
+
+Design, build, and deploy machine learning systems across ingestion, extraction, classification, clustering, and evaluation
+Work directly with pilot customers to understand messy, unstructured data problems and translate them into practical solutions
+Experiment with modern ML approaches including transformer models and NLP techniques
+Take models from experimentation through to production-ready systems
+Build and maintain data pipelines to ingest, clean, and structure data from documents, APIs, and other sources
+Collaborate closely with Product, Engineering, and Customer teams to ensure solutions are both technically robust and useful
+Help shape how ML is developed, deployed, and scaled within Tracera as the product grows
+What We’re Looking For
+
+Strong foundation in machine learning, computer science, or a related field
+1 to 5 years of hands-on experience with Python and modern ML tooling
+Solid understanding of ML concepts including training, evaluation, and iteration
+Strong engineering mindset with a focus on building real systems, not just experimentation
+Comfortable working with messy, unstructured real-world data
+Ability to think through scalability, reliability, and production considerations
+Curious, proactive, and comfortable working in a fast-paced, evolving environment
+Strong communication skills and interest in working closely with customers
+Nice to Have
+
+Experience with transformer models, NLP, or frameworks such as Hugging Face
+Experience building or deploying production ML systems
+Exposure to data pipelines, APIs, or cloud infrastructure
+Familiarity with sustainability, ESG, or supply chain domains
+What Success Looks Like
+You build machine learning systems that successfully turn complex, unstructured data into reliable and useful outputs for customers. You move quickly from problem understanding to working solutions and continuously improve them through iteration and feedback. You develop systems that are not only accurate but scalable and production-ready. You play a key role in shaping how Tracera approaches machine learning as the product and team grow.
+
+Why Join Tracera
+You’ll be working on meaningful problems at the intersection of sustainability and enterprise software. This is an opportunity to take real ownership as a founding engineer on a new product area, with direct exposure to customers and the ability to shape what gets built. You’ll join a fast-growing, mission-driven team at an exciting stage, with the chance to grow alongside the company and have a genuine impact on both the product and the wider business.

@@ -1,0 +1,33 @@
+Full job description
+Project Role : Data Engineer
+Project Role Description : Design, develop and maintain data solutions for data generation, collection, and processing. Create data pipelines, ensure data quality, and implement ETL (extract, transform and load) processes to migrate and deploy data across systems.
+Must have skills : Microsoft Azure Databricks
+Good to have skills : NA
+Minimum 5 year(s) of experience is required
+Educational Qualification : 15 years full time education
+
+Summary:
+As a Data Engineer, a typical day involves designing, developing, and maintaining comprehensive data solutions that support the generation, collection, and processing of data. This role requires creating efficient data pipelines and ensuring the integrity and quality of data throughout its lifecycle. The position also involves implementing processes to extract, transform, and load data, facilitating seamless migration and deployment across various systems. Collaboration with different teams to align data strategies and optimize workflows is an integral part of daily activities, ensuring that data solutions meet organizational needs effectively and reliably.
+
+Roles & Responsibilities:
+Expected to be an SME, collaborate and manage the team to perform.
+Responsible for team decisions.
+Engage with multiple teams and contribute on key decisions.
+Provide solutions to problems for their immediate team and across multiple teams.
+Lead the development and optimization of data workflows to enhance system performance and reliability.
+Mentor junior team members to support their professional growth and improve team capabilities.
+Coordinate cross-functional efforts to align data engineering initiatives with broader organizational goals.
+
+Professional & Technical Skills:
+Must To Have Skills: Proficiency in Microsoft Azure Databricks.
+Experience with cloud-based data processing and storage solutions.
+Strong knowledge of data pipeline architecture and ETL methodologies.
+Ability to optimize data workflows for scalability and efficiency.
+Familiarity with scripting and automation to streamline data operations.
+
+Additional Information:
+The candidate should have minimum 5 years of experience in Microsoft Azure Databricks.
+This position is based at our Indore office.
+A 15 years full time education is required.
+
+15 years full time education

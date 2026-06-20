@@ -1,0 +1,62 @@
+Affinity stitches together billions of data points from massive datasets to create a powerful, accurate representation of the world's professional relationship graph. Based on this data, we offer our users the insights and visibility they need to nurture and tap into the opportunities in their team's network.
+
+This role is part of the AI Platform team, which owns the AI services that power Affinity's industry-leading relationship intelligence platform. We extract and retrieve information from billions of structured and unstructured data points to deliver actionable insights to customers.
+
+As a Senior Machine Learning Engineer, you will collaborate with data engineers, software engineers, and product managers to shape the future of private capital's leading CRM platform. You will design and build AI systems that efficiently uncover insights from compelling business interaction data – an exciting and unique opportunity within the industry.
+
+This is an applied machine learning position with a strong emphasis on engineering, rather than research. You will play a key role in advancing our ML Engineering capabilities, particularly in information retrieval and eventually recommendation systems.
+
+What you’ll be doing:
+
+Own the full ML lifecycle: Take projects from ideation to production, including feature engineering, model selection, deployment, and model observability and evaluation.
+Translate business needs into ML solutions: Gather product requirements and translate them into robust ML system design requirements.
+Build recommendation and ranking systems: Architect and launch ranking and recommendation infrastructure from scratch, initially via integrated off-the-shelf models, and evolving to targeted and customized solutions in the long term.
+Solve complex problems: Work on a variety of information extraction, information storage and information retrieval problems for both structured and unstructured data.
+Collaborate cross-functionally: Partner with cross-functional (product, infra, data engineering, and software engineering) teams to build robust, high-scale systems that underlie all of our data processing and ML Operations.
+Qualifications
+
+Don’t meet every single requirement? Studies have shown that women and people of color are less likely to apply to jobs unless they meet every qualification. At Affinity, we are dedicated to building a diverse, inclusive, and authentic workplace, so if you’re excited about this role, but your past experience doesn’t perfectly align with the qualifications above, we encourage you to apply anyways. You may be just the right candidate for this or other roles.
+
+Required:
+
+5+ years of experience in software engineering and/or Machine Learning experience in applying machine learning in production.
+Hands-on experience developing ranking or recommendation systems from scratch, deployed at scale using techniques such as learn-to-rank, explainable recommendations
+Strong understanding of machine learning techniques, including clustering and decision trees
+Experience with serving ML models for streaming and batch inference at scale.
+Experience with vector or graph databases.
+Proficiency in Python and modern ML frameworks (PyTorch, Scikit-learn, or similar).
+Track record of building maintainable, testable, and production-grade codebases.
+Experience with observability tools for online and offline model evaluation, A/B testing, and tracing for AI applications.
+Nice to Have:
+
+Experience with dataset engineering, including data curation, augmentation, and synthesis, to assist ML model improvement.
+Experience with graph-based recommendation systems, such as graph NN.
+Experience with packaging, CI/CD and pipeline automation.
+Tech stack: Our ML pipeline manages multiple Python services that support various AI features, including utilizing OCR to extract information from unstructured data, serving embedding models to vectorize chunks, and ranking a list of recommendations based on relevance and user preference.
+
+How we work:
+
+Our culture is a key part of how we operate, as well as our hiring process:
+
+We iterate quickly. As such, you must be comfortable embracing ambiguity, be able to cut through it, and deliver value to our customers.
+We are candid, transparent, and speak our minds while simultaneously caring personally with each person we interact with.
+We make data-driven decisions and make the best decision for the moment based on the information available.
+If you’d want to learn more about our values click here.
+
+What you'll enjoy at Affinity:
+
+We live our values: As owners, we take pride in everything we do. We embrace a growth mindset, engage in respectful candor, act as playmakers, and "taste the soup" by diving deep into experiences to create the best outcomes for our colleagues and clients.
+Health Benefits: We cover both you and your dependents' extended health benefit premiums and offer flexible personal & sick days to support your well-being.
+Retirement Planning: We offer an RRSP plan to help you plan for your future.
+Learning & Development: We provide an annual education budget and a comprehensive L&D program.
+Wellness Support: We reimburse monthly for things like home internet, meals, and wellness memberships/equipment to support your overall health and happiness.
+Team Connection: Virtual team-building activities and socials to keep our team connected, because building strong relationships is key to success.
+Please note that the role compensation details below reflect the base salary only and do not include any equity or benefits. This represents the salary range that Affinity believes, in good faith, at the time of this posting, that it will pay for the posted job.
+
+A reasonable estimate of the current range is $160,000 to $220,000 CAD. Within the range, individual pay depends on various factors including geographical location and review of experience, knowledge, skills, abilities of the applicant.
+
+At Affinity, we may use artificial intelligence (AI) tools as part of our recruitment process to help screen and evaluate candidate applications. While AI assists our hiring team in managing applications efficiently, it never replaces decisions made by real people. We are committed to fair and transparent hiring practices, and our AI tools are regularly monitored to ensure they support—not replace—human judgment.
+
+Additional Information:
+
+This job posting represents an active vacancy that we are currently seeking to fill.

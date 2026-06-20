@@ -1,0 +1,65 @@
+G2 is the world's largest and most trusted software marketplace. When you join G2, you’re joining the industry’s leading team that helps businesses reach their peak potential by powering decisions and strategies with trusted insights from real software users.
+
+Now, we have joined forces with Capterra, SoftwareAdvice, and GetApp to create the largest source of online data and software insights to fuel intelligent buying in the age of AI. With 200M+ combined annual visitors and 6M verified reviews, we are now the centralized place to enable software buyers to make better and faster decisions with confidence.
+
+And we are just getting started! We are setting out to transform the global B2B software industry and become the most trusted data foundation for buyers and sellers of software for the age of AI.
+
+Does that sound exciting to you? Come join us as we try to reach our next PEAK!
+
+About G2 - Our People
+
+At G2, everything we are and what we do is grounded in our PEAK values— (Performance + Entrepreneurship + Authenticity + Kindness. Working at G2 means you are part of a value-driven, growing global community that climbs PEAKs together. We cheer for each other’s successes, learn from our mistakes, and support and lean on one another during challenging times. With ambition and entrepreneurial spirit we push each other to take on challenging work, which will help us all to grow and learn.
+
+You will be part of a global, diverse team of smart, dedicated, and kind individuals - each with unique talents, aspirations, and life experiences. At the heart of our community and culture are our people-led ERGs, which celebrate and highlight the diverse identities of our global team. As an organization, we are intentional about our DEI and philanthropic work (like our G2 Gives program) because it encourages us all to be better people.
+
+About The Role
+G2 is looking for a Data Scientist who will play a key part in developing complex data-driven solutions and deploying impactful data products. You will collaborate with a team focused on building advanced forecasting models, customer segmentations, recommendation engines, and specialised algorithms that drive business outcomes.
+
+You will proactively identify new opportunities to apply data science to enhance performance across a dynamic, two-sided digital marketplace with an auction-based pricing model. This environment offers extensive scope to experiment, innovate, and create meaningful impact using data.
+
+In This Role, You Will:
+Design models and run simulations to help understand and predict bidding/auction dynamics.
+
+Identify opportunities to apply predictive models to improve the vendor experience and support their software buying journey.
+
+Employ supervised and unsupervised machine learning techniques to support analytic objectives.
+
+Develop data-processing and technical workflows for delivery of data-driven vendor experiences.
+
+Use advanced statistical techniques to fine-tune models and improve business processes.
+
+Partner with the client support team and provide them with insight necessary to successfully manage the relationship with software vendors.
+
+Collaborate with Engineering and Product Management teams to execute the data science roadmap.
+
+Minimum Qualifications:
+We realize applying for jobs can feel daunting at times. Even if you don’t check all the boxes in the job description, we encourage you to apply anyway.
+
+3-6 years of experience with a bachelor's degree in a quantitative field (math, data science, economics, etc.) or a master’s degree or PhD with 2-4 years of relevant experience.
+
+Experience in developing (R or python), deploying and maintaining data products.
+
+A very good command of machine learning and statistical algorithms (Regression, Clustering, Linear Optimization) for anomaly detection, trend prediction, and modeling of content popularity and search results.
+
+Comfortable with summarizing complex research and analytical methods, and ability to present to stakeholders.
+
+Curious and analytical nature. Compelled to dive deep to understand complicated problems.
+
+Passionate for data and analytics. Driven to acquire the skills necessary to accomplish complex tasks.
+
+Interpersonal skills with ability to build relationships and effectively collaborate with colleagues.
+
+Proactively seek guidance to achieve successful results.
+
+Resourceful and resilient with the instincts to take a creative approach to problem solving.
+
+Knowledge of working with cloud-based data warehouses and data management systems (SQL Server, Snowflake, BigQuery), and streaming data platforms (kafka, Flink, etc.)
+
+What Can Help Your Application Stand Out:
+Experience working with bidding marketplaces and auction dynamics.
+
+Experience working for consumer or business-facing digital brands.
+
+Experience with Unix/Linux environments, and version control systems (git, or svn).
+
+Experience with Prefect or AWS Sagemaker.

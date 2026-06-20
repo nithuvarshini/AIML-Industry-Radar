@@ -1,0 +1,34 @@
+{
+    "programming_languages": [
+        "Python",
+        "SQL"
+    ],
+    "frameworks_libraries": [
+        "Scikit-Learn",
+        "dbt"
+    ],
+    "databases": [
+        "MongoDB",
+        "PostgreSQL",
+        "Redshift"
+    ],
+    "cloud_platforms": [
+        "AWS"
+    ],
+    "aiml_technologies": [
+        "Data Science",
+        "Embeddings",
+        "LLMs",
+        "Machine Learning",
+        "Matching",
+        "Natural Language Processing",
+        "Ranking",
+        "Recommender Systems"
+    ],
+    "data_engineering_tools": [
+        "Airflow"
+    ],
+    "mlops_tools": [
+        "AWS SageMaker"
+    ]
+}

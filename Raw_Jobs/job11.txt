@@ -1,0 +1,41 @@
+We are looking for a Lead Data Scientist to join our collaborative team. You will play a key role in developing and implementing AI solutions across various applications, from statistical analysis to natural language processing. If you are passionate about leveraging data to create impactful solutions, we encourage you to apply.
+
+ 
+
+Responsibilities
+
+Develop and implement AI solutions, including classification, clustering, and anomaly detection
+Conduct statistical data analysis and apply machine learning techniques
+Manage complete project delivery from data preparation to model evaluation
+Utilize Python programming and SQL for data manipulation and analysis
+Engage in ML Ops and model development workflows
+Create models that are accessible for business use
+Collaborate with teams using software development methodologies and version control
+Document processes and maintain project tracking tools such as Jira
+Stay updated with new technologies and apply problem-solving skills effectively
+Deliver production-ready solutions and facilitate knowledge sharing
+ 
+
+Requirements
+
+9+ years of experience in software engineering, specializing in Data Science
+At least 1 year of relevant leadership experience
+Proficiency in statistical data analysis, machine learning, and NLP, with a clear understanding of practical applications and limitations
+Experience in developing and implementing AI solutions, including classification, clustering, anomaly detection, and NLP
+Expertise in complete project delivery, from data preparation to model building, evaluation, and visualization
+Proficiency in Python programming and SQL, with experience in production-level code and data analysis libraries
+Familiarity with ML Ops, model development workflows, and feature engineering techniques
+Capability in manipulating data and developing models accessible for business use, with experience in Azure AI Search
+Competence in software development methodologies, code versioning (e.g., GitLab), and project tracking tools (e.g., Jira)
+Enthusiasm for learning new technologies, with expertise in problem-solving and delivering production-ready solutions
+Fluency in the UNIX command line
+Familiarity with Agile development practices
+Excellent communication skills in English, with a minimum proficiency level of B2+
+ 
+
+Nice to have
+
+Knowledge of Cloud Computing
+Experience with Big Data tools
+Familiarity with visualization tools
+Proficiency in containerization tools

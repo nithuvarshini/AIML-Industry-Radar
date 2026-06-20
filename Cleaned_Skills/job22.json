@@ -1,0 +1,25 @@
+{
+    "programming_languages": [
+        "Python",
+        "SQL"
+    ],
+    "frameworks_libraries": [
+        "PySpark"
+    ],
+    "databases": [],
+    "cloud_platforms": [
+        "AWS",
+        "Azure",
+        "GCP"
+    ],
+    "aiml_technologies": [],
+    "data_engineering_tools": [
+        "Apache Spark",
+        "Azure Synapse",
+        "Databricks",
+        "Databricks Workflows",
+        "Delta Live Tables",
+        "ETL"
+    ],
+    "mlops_tools": []
+}

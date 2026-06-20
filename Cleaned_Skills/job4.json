@@ -1,0 +1,44 @@
+{
+    "programming_languages": [
+        "Python"
+    ],
+    "frameworks_libraries": [
+        "AutoGen",
+        "CrewAI",
+        "Google AI Developer Kit",
+        "LangGraph",
+        "Swarm"
+    ],
+    "databases": [
+        "Vector Databases"
+    ],
+    "cloud_platforms": [
+        "Azure",
+        "GCP"
+    ],
+    "aiml_technologies": [
+        "AI",
+        "AI Solutions Deployment",
+        "Agent Deployment",
+        "Agent Development",
+        "Agent Orchestration",
+        "Agent Orchestration Pipelines",
+        "Azure AI Services",
+        "Containerized Agent Deployment",
+        "Knowledge Graphs",
+        "LLM Orchestration",
+        "LLMs",
+        "Machine Learning",
+        "Multi-Agent Frameworks",
+        "Prompt Engineering",
+        "RAG",
+        "Tool Integration",
+        "Vertex AI"
+    ],
+    "data_engineering_tools": [],
+    "mlops_tools": [
+        "Evaluation Frameworks",
+        "Kubernetes",
+        "Observability Tools"
+    ]
+}

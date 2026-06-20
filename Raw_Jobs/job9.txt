@@ -1,0 +1,30 @@
+Nextera Robotics is a fast-growing Industrial Robotics and AI company founded at MIT. We build and deploy advanced AI systems and autonomous technologies for Fortune 500 clients across construction, energy, telecommunications, and other industrial sectors. We are building a future where AI-native systems and robots handle repetitive, high-friction, and physically demanding work.
+
+We move fast with small, agile teams. Autonomy is expected. You’ll see your work go from idea to production and create real value in the field. The work is challenging, deeply technical, and highly rewarding.
+
+This role is ideal for a strong programmer with a versatile software development background and a passion for AI, machine learning, and robotics.
+
+What you will do:
+
+Build and productionize advanced computer vision and multimodal AI systems for real-world industrial deployment, with a focus on detection, segmentation, visual understanding, and VLM/LLM-powered reasoning.
+Transform large-scale visual data collected by autonomous robots into actionable insights for progress tracking, safety monitoring, and project intelligence.
+Develop AI systems for use in robotics, construction, energy, and telecommunications
+Work closely with engineers and annotators to expand and improve high-quality training datasets
+Support and scale machine learning operations (MLOps)
+Build and maintain cloud infrastructure and ML pipelines for training, evaluation, and deployment
+Required:
+
+Proven academic or industry experience building computer vision systems, including areas such as object detection, segmentation, visual understanding, or multimodal models
+Strong Python skills, with the ability to build, test, and iterate quickly in a production-oriented environment
+Proficiency using modern AI-assisted development tools such as coding agents, GitHub Copilot, or similar systems to accelerate implementation, debugging, and iteration
+Solid problem-solving skills, strong ownership, and the ability to communicate clearly across technical and non-technical teams
+Familiarity with data pipelines, model evaluation, and real-world ML workflows
+Good to have:
+
+Strong background in mathematics, statistics, physics, or another highly quantitative field
+Experience with VLMs, LLMs, or multimodal AI systems
+Familiarity with MLOps, cloud infrastructure, and training or deployment pipelines
+Back-end experience with modern frameworks; Django and MySQL are a plus
+Working at Nextera is a great opportunity for those who love to get things done. The work is challenging, deeply technical, and incredibly rewarding - you’ll see your models and systems make the jump from development to real-world deployment. We’ll be very excited to learn more about you and welcome you to the Nextera Robotics team!
+
+Competitive salary based on experience, plus great perks. Join a YC-backed startup shaping the future of robotics!

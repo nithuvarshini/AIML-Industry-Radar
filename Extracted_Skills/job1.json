@@ -1,0 +1,70 @@
+{
+    "programming_languages": [
+        "Python"
+    ],
+    "frameworks_libraries": [
+        "Anthropic API",
+        "AutoGen",
+        "Cohere",
+        "CrewAI",
+        "LangChain",
+        "LlamaIndex",
+        "OpenAI API",
+        "sentence-transformers"
+    ],
+    "databases": [
+        "ChromaDB",
+        "pgvector",
+        "Pinecone",
+        "Qdrant",
+        "Weaviate"
+    ],
+    "cloud_platforms": [
+        "AWS",
+        "AWS Bedrock",
+        "AWS Lambda",
+        "Azure",
+        "Azure Functions",
+        "Azure OpenAI Service",
+        "GCP",
+        "GCP Vertex AI"
+    ],
+    "aiml_technologies": [
+        "AI",
+        "AI-assisted Development",
+        "Agentic AI",
+        "Anthropic Claude",
+        "Embedding Generation",
+        "Embedding Models",
+        "Fine-tuning LLMs",
+        "Generative AI",
+        "Hybrid Search",
+        "LLaMA",
+        "LLMs",
+        "LoRA",
+        "Machine Learning",
+        "Mistral",
+        "Model Context Protocol (MCP)",
+        "Model Evaluation",
+        "Model Quantization",
+        "ONNX",
+        "OpenAI",
+        "Prompt Engineering",
+        "QLoRA",
+        "RAG",
+        "Re-ranking",
+        "Retrieval Optimization",
+        "Retrieval Quality Benchmarking",
+        "TGI",
+        "Vector Store Management",
+        "vLLM"
+    ],
+    "data_engineering_tools": [],
+    "mlops_tools": [
+        "DeepEval",
+        "Docker",
+        "Kubernetes",
+        "RAGAS",
+        "TruLens"
+    ]
+}

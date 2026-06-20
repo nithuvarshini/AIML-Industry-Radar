@@ -1,0 +1,26 @@
+Full job description
+No. of Positions: 2
+Position: Data Engineer
+Location: On-site (Coimbatore)
+Total Years of Experience: 3+ years
+
+Key Responsibilities:
+
+Data Pipeline Development: Design, develop, and maintain scalable data pipelines using Azure Synapse, Databricks & Apache Spark (PySpark).
+Data Integration: Integrate data from various sources, ensuring data quality and consistency.
+Performance Optimization: Optimize data processing workflows for performance and cost-efficiency.
+Collaboration: Work with data architects, analysts, and product owners to understand data requirements and deliver solutions.
+Monitoring and Troubleshooting: Monitor data pipelines and troubleshoot issues to ensure data
+Documentation: Document data workflows, processes, and best practices.
+Technical Skills:
+
+Proficiency in Azure Synapse/Databricks and Apache Spark.
+Strong PySpark and SQL skills for data manipulation and querying.
+Familiarity with Delta Live Tables and Databricks workflows.
+Experience with ETL tools and processes.
+Knowledge of cloud platforms (AWS, Azure, GCP).
+Soft Skills:
+
+Excellent problem-solving abilities.
+Strong communication and collaboration skills.
+Ability to work in a fast-paced environment and manage multiple priorities.

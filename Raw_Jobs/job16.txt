@@ -1,0 +1,45 @@
+About Ataraxis AI
+Ataraxis is an AI precision medicine company working at the intersection of multi-modal artificial intelligence and oncology. We develop and deploy AI-native tools to assist physicians in selecting the most optimal treatments for their patients.
+
+Our mission is to change how cancer is treated and impact at least 50% of new cancer cases by 2030. We have already launched our first products, including the Ataraxis™ Breast platform for breast cancer, and help cancer patients get the most appropriate treatment every day. We work with the best academic institutions in the United States as well as small community clinics to deliver better care with frontier technology.
+
+At Ataraxis, you will have a unique opportunity to shape not only the future of our company, but also the future of healthcare. You will join an exceptional team at the forefront of healthcare-focused AI research and deployment. As a frontier AI lab, we bring together leading AI researchers, medical doctors, and industry veterans. Our advisors include AI pioneers such as Yann LeCun and distinguished oncologists from top cancer research institutions, all united by the mission to redefine precision medicine.
+
+Ataraxis has raised $24 million in funding, including a $20.4 million Series A in early 2025 led by top venture capital funds such as AIX Ventures (Hugging Face, Perplexity), Thiel Capital, Founders Fund (OpenAI, SpaceX, Palantir, Oscar Health), and Obvious Ventures (Recursion).
+
+We are an company with a flat organizational structure, where every team member is empowered to actively contribute. Leadership roles are earned by those who demonstrate initiative and consistently deliver exceptional results. Strong work ethic and the ability to prioritize ruthlessly are essential.
+
+Responsibilities
+This is a high-ownership generalist role. You'll work across 3 services spanning TypeScript/React, Python backends, and ML/CV inference, all running on Google Cloud and Modal. Comfort moving between product code and ML infrastructure is essential.
+
+Physician web portal: Next.js / React app where clinicians place orders, view slides, and read reports.
+Order service: the system of record such as orders, patients, clinical data, insurance billing claims, report (PDF) generation, and a web of third-party integrations.
+Slide tiles service: generates and serves DeepZoom pyramids from gigapixel pathology slides.
+Who You Are
+Product-obsessed builder: You're never satisfied with "good enough"—you relentlessly spot opportunities to improve the product and move fast to ship them, knowing that done and iterating beats perfect and waiting.
+AI-native: You're comfortable using latest AI tools (e.g., Cursor/Windsurf) to quickly build, refine, and document your code.
+Sense of style: You appreciate polished, professional UIs, enjoy collaborating closely with designers, and understand that great UX is integral to great products.
+Creative thinker: You thrive in environments requiring innovation and aren't limited by past experience.
+Self-directed leader: You take ownership, set your own agenda, and move with urgency. You don't need a roadmap handed to you. You identify what matters and rally others around it.
+Effective collaborator: You keep teammates informed, surface blockers early, and turn around feedback rapidly, making it easy for those around you to do their best work.
+Strong external communicator: You can represent the product and company confidently to customers, partners, and the outside world—translating technical work into clear, compelling narratives.
+Qualifications
+Frontend
+
+Strong TypeScript and React (we run React 19 /Next.js 15, App Router)
+Tailwind CSS, component-driven UI, and modern testing with Jest+ React Testing Library and Playwright for E2E
+Bonus: data viz (Recharts), rich-text (Tiptap), or medical image viewers (OpenSeaDragon)
+Backend
+
+Strong Python, with production experience in Flask (or similar) and SQLAlchemy/PostgreSQL
+Database schema migrations (Alembic / Flask-Migrate)
+Designing and consuming REST APIs; integrating third-party services
+Async/background job processing (Google Cloud Tasks)
+Cloud & DevOps
+
+Hands-on Google Cloud Platform: Cloud SQL, Cloud Storage (GCS), Cloud Run, Cloud Tasks
+Docker and CI/CD with GitHub Actions; tag-based semantic-versioned releases
+Comfort with Vercel (portal) and serverless GPU deploys (Modal)
+Testing & quality
+
+A genuine testing discipline—pytest, Jest, and Playwright are first-class here, and our work feeds a regulated requirements-traceability process

@@ -1,0 +1,64 @@
+About the role:
+
+As a Senior Data Engineer at Instrumentl, you’ll play a key role in shaping the architecture, improving reliability, and building the systems that power data across the company. This is a high-impact opportunity to bring structure and scalability to an existing foundation—ideal for someone who enjoys high ownership, thrives in ambiguity, and wants to have a lasting impact on foundational infrastructure.
+
+You’ll partner closely with our engineering, product, and business teams to design and implement scalable systems for data ingestion, storage, processing, and analytics. Get to know us at instrumentl.com/about!
+
+The Instrumentl team is fully distributed (though if you’d like to work from our Oakland office, we would love to see you there). For this position, we are looking for candidates based in the United States who have significant overlap with Pacific Time Zone working hours.
+
+What you'll do:
+
+Design and scale our data platform, including pipelines, models, and orchestration frameworks
+Develop scalable ETL/ELT pipelines for ingesting data from APIs, databases, and event streams
+Define and implement systems for data ingestion, storage, processing, and transformation
+Build and manage workflow orchestration using tools like Airflow
+Build semantic layer as well as dashboards
+Establish best practices for data modeling, testing, and quality
+Partner with stakeholders to shape data requirements and enable BI and analytics use cases
+Apply software engineering principles (testing, CI/CD, modular design) to data infrastructure
+Optimize systems for performance, scalability, and cost from day one
+What you bring:
+
+A minimum of 5+ years as a software engineer, with the last 2-3 years in data engineering; experience in early-stage or 0→1 environments is a plus
+Strong programming skills in Python
+Advanced proficiency in SQL
+Proven experience building ETL/ELT pipelines end-to-end
+Experience with orchestration tools like Airflow
+Deep understanding of the data lifecycle: ingestion → storage → processing → transformation → serving
+Experience with cloud platforms (AWS, GCP, or Azure)
+Experience supporting BI tools (Looker, Tableau, etc.)
+Familiarity with modern data warehouses (Snowflake, BigQuery, Redshift)
+Nice to have:
+
+Experience working in startup environments
+Experience with data analytics and data science concepts
+Experience with streaming pipelines (Kafka, Kinesis)
+Exposure to ML/AI data pipelines
+Familiarity with Ruby and Rails
+What success looks like:
+
+A scalable, reliable data foundation
+Clear, well-documented data models used across teams
+A data platform that is flexible and ready to scale with company growth
+Stakeholders have trusted, accessible data for decision-making
+Compensation & Benefits:
+
+Salary ranges are based on market data, and consider experience, location, and technical depth. Salary is one part of total compensation, which also includes equity, perks, and competitive benefits.
+
+For US-based candidates, our target salary band is $150,000 - $180,000/year + equity.
+100% covered health, dental, and vision insurance for employees (50% for dependents)
+Generous PTO, including parental leave
+401(k)
+Company laptop and home office stipend
+Bi-annual company retreats for in-person collaboration
+What to expect:
+
+Instrumentl is evolving rapidly. You’ll always have new challenges and opportunities to grow in your role - you won’t be bored! You’ll be an early member of our small but mighty team, playing a huge part in shaping our culture for the years and teammates to come.
+
+At Instrumentl:
+
+We’re customer-focused. We routinely seek feedback from our customers to improve the Instrumentl experience for everyone. Our first company value is "The customer is the hero" and we mean it.
+We love to experiment. We are constantly generating new concepts and iterating to see what works - ideation and experimentation are essential here. "Bend the curve" is another key company value.
+We appreciate authenticity. We have a diverse range of life experiences, and we encourage open, clear communication with each other about the things that matter most to us.
+We’re approachable and collaborative. Everyone has a voice, and we’re all building Instrumentl together.
+We kick it every day with some of the nicest people in the world. No joke, our customers are often on the front lines educating kids, saving endangered species, and restoring watersheds. In helping them take advantage of Instrumentl’s technology, you’re helping them move the world forward.

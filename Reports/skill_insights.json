@@ -1,0 +1,49 @@
+{
+    "overall_top_10_skills": [
+        "Python",
+        "Machine Learning",
+        "AI",
+        "AWS",
+        "GCP",
+        "Azure",
+        "LLMs",
+        "SQL",
+        "MLOps",
+        "Model Evaluation"
+    ],
+    "top_ai_engineer_skills": [
+        "Machine Learning",
+        "AI",
+        "Generative AI",
+        "LLMs",
+        "Python"
+    ],
+    "top_ml_engineer_skills": [
+        "Python",
+        "ML Pipelines",
+        "MLOps",
+        "Machine Learning",
+        "Model Evaluation"
+    ],
+    "top_data_scientist_skills": [
+        "Machine Learning",
+        "Python",
+        "SQL",
+        "AWS",
+        "Clustering"
+    ],
+    "top_data_engineer_skills": [
+        "Python",
+        "GCP",
+        "Machine Learning",
+        "SQL",
+        "Snowflake"
+    ],
+    "top_software_engineer_skills": [
+        "React",
+        "Docker",
+        "Machine Learning",
+        "MongoDB",
+        "PostgreSQL"
+    ]
+}

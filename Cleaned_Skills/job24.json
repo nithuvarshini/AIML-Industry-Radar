@@ -1,0 +1,34 @@
+{
+    "programming_languages": [
+        "Python",
+        "R"
+    ],
+    "frameworks_libraries": [],
+    "databases": [
+        "Snowflake"
+    ],
+    "cloud_platforms": [],
+    "aiml_technologies": [
+        "AI",
+        "Anomaly Detection",
+        "Data Mining",
+        "Feature Engineering",
+        "Hidden Markov Models",
+        "IoT Analytics",
+        "Linear Programming",
+        "Machine Learning",
+        "Mathematics",
+        "Operations Research",
+        "Optimization Algorithms",
+        "Statistics",
+        "Time-Series Analysis"
+    ],
+    "data_engineering_tools": [
+        "Data Cleansing",
+        "Data Pipelines",
+        "Data Quality",
+        "Power BI",
+        "Streaming Data"
+    ],
+    "mlops_tools": []
+}

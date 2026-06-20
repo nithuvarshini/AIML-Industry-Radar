@@ -1,0 +1,55 @@
+{
+    "programming_languages": [
+        "Python",
+        "SQL"
+    ],
+    "frameworks_libraries": [
+        "PySpark",
+        "RDF",
+        "OWL",
+        "SPARQL"
+    ],
+    "databases": [
+        "Vector Databases",
+        "Delta Lake"
+    ],
+    "cloud_platforms": [
+        "AWS",
+        "GCP"
+    ],
+    "aiml_technologies": [
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Entity Resolution",
+        "Probabilistic Record Linkage",
+        "Embedding-based Matching",
+        "Semantic Similarity",
+        "LLMs",
+        "Regression",
+        "Classification",
+        "Clustering",
+        "Model Evaluation",
+        "Experimental Design",
+        "RAG",
+        "Semantic Search",
+        "Knowledge Graph Construction",
+        "Semantic Data Modeling",
+        "Identity Graph",
+        "Causal Inference",
+        "A/B Testing",
+        "Synthetic Control",
+        "Uplift Modeling"
+    ],
+    "data_engineering_tools": [
+        "Databricks",
+        "DataOps"
+    ],
+    "mlops_tools": [
+        "MLOps",
+        "Experiment Tracking",
+        "Pipeline Orchestration",
+        "Model Monitoring",
+        "Reproducibility",
+        "Airflow"
+    ]
+}

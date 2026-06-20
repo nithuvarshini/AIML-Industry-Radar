@@ -1,0 +1,46 @@
+{
+    "programming_languages": [
+        "Python"
+    ],
+    "frameworks_libraries": [
+        "Hugging Face",
+        "LangChain",
+        "LlamaIndex",
+        "PySpark",
+        "PyTorch",
+        "Scikit-Learn",
+        "TensorFlow"
+    ],
+    "databases": [
+        "Vector Databases"
+    ],
+    "cloud_platforms": [
+        "AWS",
+        "Azure",
+        "Cloud Data Solutions",
+        "GCP"
+    ],
+    "aiml_technologies": [
+        "Deep Learning",
+        "Generative AI",
+        "LLMs",
+        "Machine Learning",
+        "Prompt Engineering",
+        "RAG"
+    ],
+    "data_engineering_tools": [
+        "Airflow",
+        "Data Pipelines",
+        "Databricks",
+        "ETL",
+        "Streaming Data Pipelines"
+    ],
+    "mlops_tools": [
+        "APIs",
+        "Kubeflow",
+        "MLOps",
+        "MLflow",
+        "Microservices",
+        "Model Deployment"
+    ]
+}

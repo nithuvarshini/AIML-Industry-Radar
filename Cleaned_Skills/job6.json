@@ -1,0 +1,28 @@
+{
+    "programming_languages": [
+        "Haskell",
+        "Node.js",
+        "Python",
+        "Scala",
+        "Solidity"
+    ],
+    "frameworks_libraries": [],
+    "databases": [],
+    "cloud_platforms": [],
+    "aiml_technologies": [
+        "Binance Smart Chain",
+        "Blockchain",
+        "Cardano",
+        "Cosmos",
+        "Decentralized Systems",
+        "Ethereum",
+        "Machine Learning",
+        "Mathematical Modeling",
+        "Polkadot",
+        "Smart Contracts",
+        "Solana",
+        "Terra"
+    ],
+    "data_engineering_tools": [],
+    "mlops_tools": []
+}

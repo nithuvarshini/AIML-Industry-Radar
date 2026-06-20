@@ -1,0 +1,42 @@
+{
+    "programming_languages": [
+        "Python",
+        "SQL"
+    ],
+    "frameworks_libraries": [],
+    "databases": [
+        "Cloud Data Warehouses",
+        "Snowflake",
+        "BigQuery"
+    ],
+    "cloud_platforms": [
+        "GCP"
+    ],
+    "aiml_technologies": [
+        "Machine Learning",
+        "Applied AI",
+        "Anomaly Detection"
+    ],
+    "data_engineering_tools": [
+        "Data Architecture",
+        "Data Pipelines",
+        "Data Ingestion",
+        "Data Transformation",
+        "Data Modeling",
+        "Semantic Layer",
+        "Metrics Layer",
+        "ETL",
+        "ELT",
+        "dbt",
+        "Airflow",
+        "Data Quality",
+        "Data Observability",
+        "Data Lineage",
+        "Event Pipelines",
+        "Data Labeling",
+        "Feature Pipelines",
+        "DataOps",
+        "Automated Testing"
+    ],
+    "mlops_tools": []
+}

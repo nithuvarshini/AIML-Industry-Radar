@@ -1,0 +1,23 @@
+{
+    "programming_languages": [
+        "TypeScript"
+    ],
+    "frameworks_libraries": [
+        "Node.js",
+        "React"
+    ],
+    "databases": [
+        "MongoDB",
+        "PostgreSQL"
+    ],
+    "cloud_platforms": [
+        "AWS"
+    ],
+    "aiml_technologies": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Recommendation Systems"
+    ],
+    "data_engineering_tools": [],
+    "mlops_tools": []
+}

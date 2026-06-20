@@ -1,0 +1,36 @@
+Stuut is transforming accounts receivable for B2B companies—making collections smarter and faster for companies that have historically relied on manual processes that are labor intensive and costly. Our platform is gaining traction with finance teams across industrials, chemicals, and manufacturing sectors from Fortune 10 brands to scaling midmarkets. We're backed by top-tier investors including a16z, Khosla, Activant, 1984 Ventures and Page One.
+
+The Role
+To build the data foundation that powers Stuut's intelligence layer. You'll work closely with our product and engineering teams to transform raw financial data into actionable insights that help our customers get paid faster. This is a foundational role, you'll be our first data hire, which means you'll shape everything from our data architecture to how we think about analytics.
+
+This is a high-impact role for someone who can think strategically about data infrastructure while rolling up their sleeves to build pipelines, models, and systems from scratch. You'll translate messy data into clean, reliable datasets that drive product decisions, customer insights, and business growth. If you've ever wanted to own the entire data stack at a fast-growing company, this is it.
+
+What You’ll Do
+Build and own our data infrastructure from the ground up — design pipelines that ingest, transform, and model data from customer ERPs, payment processors, and internal systems
+Build the transformation and semantic layer that serves as the single source of metric truth across customer-facing analytics, internal reporting, and our AI/ML systems
+Design the canonical data model that normalizes information across heterogeneous source systems, with quality tests and observability built in from day one
+Build the event and signal pipelines that turn product interactions and outcomes into clean, labeled data — the foundation for analytics, ML, and intelligent product features
+Partner with product, engineering, and applied ML to embed data quality, lineage, and observability into everything we ship
+Implement DataOps best practices so our data — and the AI features built on top of it — stays timely, accurate, and trusted
+Collaborate with leadership to define KPIs, build dashboards, and surface insights that drive strategic decisions
+Scale our data platform as we grow from dozens to hundreds of customers, anticipating needs before they become bottlenecks
+You Might Be a Fit If You…
+Have 3+ years of hands-on experience building production data pipelines using Python
+Know your way around SQL and modern cloud data warehouses; experience with Snowflake or BigQuery is a plus
+Have deep experience implementing ETL/ELT workflows at scale using tools like dbt, Airflow, or similar — and have opinions on what good looks like
+Have built or contributed to a semantic / metrics layer and care about metric consistency across surfaces
+Understand data modeling fundamentals and can design canonical schemas that normalize messy, heterogeneous source data into something usable
+Have worked with real-world data from SaaS APIs, ERPs, and third-party integrations — and have battle scars to show for it
+Care deeply about data quality and observability — freshness, lineage, automated testing, and anomaly detection as first-class concerns
+Have experience partnering with ML or applied AI teams on feature pipelines or supporting data infrastructure (bonus, not required)
+Thrive in ambiguity and get energized by building something new rather than inheriting someone else's stack
+Have experience (or strong interest) in fintech, B2B SaaS, or financial data — understanding AR/AP workflows is a big plus
+Compensation
+
+Top-of-market salary and equity package
+Benefits (for U.S.-based full-time employees)
+Medical, dental & vision insurance coverage for you
+401(k) & Match
+Equity
+Flexible PTO
+Parental Leave

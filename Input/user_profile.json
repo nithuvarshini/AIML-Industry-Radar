@@ -1,0 +1,13 @@
+{
+    "target_role": "AI Engineer",
+    "skills": [
+        "Python",
+        "SQL",
+        "Machine Learning",
+        "Scikit-Learn",
+        "Pandas",
+        "NumPy",
+        "FastAPI",
+        "Git"
+    ]
+}

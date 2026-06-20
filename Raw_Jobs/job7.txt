@@ -1,0 +1,39 @@
+About Teleskope
+
+Teleskope is redefining data security for the AI era with the only dedicated platform that combines precise visibility with automated remediation. Teleskope continuously scans, catalogs and classifies data in-motion and at-rest while automating policy-based actions, helping organizations proactively manage data sprawl while securely enabling AI adoption.
+
+Fresh off our $25 million Series A round, Teleskope is entering a high-growth phase backed by top-tier investors and exceptional product-market fit.
+
+About the role
+
+We are seeking a Machine Learning Engineer to strengthen our element classification system - working closely with data scientists and data annotators to ship and improve entity classification pipelines across varied data sources (text, documents, relational data, OCR, etc.). This role will bridge research experimentation and production implementation, helping evolve our current pipelines and advance toward our next generation element classification system.
+
+This is a hybrid role requiring 3+ days in-office in New York City.
+
+What You'll Do:
+
+Lead a team responsible for building, maintaining, and scaling production ML pipelines for entity extraction and data element classification across diverse data types.
+Partner with both analytics and ML-focused data scientists to translate experiments into deployed systems and unblock technical bottlenecks.
+Implement evaluation, monitoring, and regression testing frameworks in collaboration with QC.
+Drive incremental improvements to classification models and pipelines with a focus on measurable impact.
+Advocate for and implement best practices around model deployment, versioning, and operational monitoring.
+About you:
+
+4+ years of experience building and deploying ML systems in production.
+Strong experience with NLP systems and supervised entity classification models.
+Comfort moving from research prototypes to CI/CD and production pipelines.
+Proficiency in Python with common ML tooling.
+Strong analytical instincts and problem solving under ambiguity.
+Collaborative communicator who can partner across data science and engineering functions.
+What you'll get:
+
+A high-impact role at an early-stage startup in a fast-growing market.
+Ownership over ML systems that directly power every customer workflow on the platform.
+An opportunity to contribute to core ML systems that power our classification service.
+A beautiful, well-stocked office in NYC’s Financial District.
+Flexible vacation and work from home days.
+Competitive salary and meaningful equity.
+Health, vision, dental, 401k and more benefits, heavily subsidized by Teleskope.
+What We Value:
+
+At Teleskope, we value strong engineers who build real systems. We look for team members who combine ML depth with pragmatic execution, take ownership of critical infrastructure, and ship reliable solutions that deliver real-world security and privacy outcomes.

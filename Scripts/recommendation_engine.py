@@ -35,15 +35,11 @@ def main():
             missing_skills[skill] = frequency
 
     total_role_skills = len(role_skills)
-
-    matched_skills = (
-        total_role_skills - len(missing_skills)
-    )
-
-    readiness_percentage = round(
-        (matched_skills / total_role_skills) * 100,
-        2
-    )
+    matched_skills = 0
+    for skill in role_skills:
+        if skill.lower() in user_skills:
+            matched_skills += 1
+    readiness_percentage = round((matched_skills / total_role_skills) * 100,2) if total_role_skills > 0 else 0
 
     recommendations = {
         "target_role": target_role,

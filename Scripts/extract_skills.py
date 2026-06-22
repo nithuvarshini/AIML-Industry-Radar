@@ -64,7 +64,8 @@ def extract_skills_from_job(client: genai.Client, job_description: str) -> str:
         config=types.GenerateContentConfig(
             response_mime_type="application/json",
             response_schema=JobSkills,
-            temperature=0.1, # Low temperature for factual extraction
+            temperature=0.1,
+            max_output_tokens=1024,
         ),
     )
     return response.text
@@ -92,7 +93,12 @@ def main():
     # 3. Process each file
     for file_path in job_files:
         output_file_path = EXTRACTED_SKILLS_DIR / f"{file_path.stem}.json"
-        
+
+        # Skip already processed files
+        if output_file_path.exists():
+            print(f"  [Skip] Already processed: {file_path.name}")
+            continue
+
         print(f"Processing: {file_path.name}...")
         
         try:

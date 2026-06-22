@@ -22,3 +22,17 @@ venv/
 
 .DS_Store
 Thumbs.db
+
+# Large data folders — too many files for git
+Raw_Jobs/
+Extracted_Skills/
+Cleaned_Skills/
+
+# Keep Reports (these are the processed outputs)
+!Reports/
+
+# Node modules
+Frontend/node_modules/
+
+# Seen jobs deduplication cache
+Raw_Jobs/seen_jobs.json

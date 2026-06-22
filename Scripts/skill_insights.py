@@ -2,13 +2,22 @@ import json
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
+REPORTS_DIR = BASE_DIR / "Reports"
 
-TOP_SKILLS_FILE = BASE_DIR / "Reports" / "top_skills.json"
-ROLE_ANALYSIS_FILE = BASE_DIR / "Reports" / "role_skill_analysis.json"
-OUTPUT_FILE = BASE_DIR / "Reports" / "skill_insights.json"
+TOP_SKILLS_FILE = REPORTS_DIR / "top_skills.json"
+ROLE_ANALYSIS_FILE = REPORTS_DIR / "role_skill_analysis.json"
+OUTPUT_FILE = REPORTS_DIR / "skill_insights.json"
+
+
+def _safe_path(path: Path) -> Path:
+    resolved = path.resolve()
+    if not str(resolved).startswith(str(REPORTS_DIR.resolve())):
+        raise ValueError(f"Access denied: '{resolved}' is outside Reports directory")
+    return resolved
 
 
 def load_json(file_path):
+    file_path = _safe_path(file_path)
     with open(file_path, "r", encoding="utf-8") as f:
         return json.load(f)
 
@@ -56,7 +65,7 @@ def main():
             )
     }
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    with open(_safe_path(OUTPUT_FILE), "w", encoding="utf-8") as f:
         json.dump(
             insights,
             f,

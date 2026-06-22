@@ -90,9 +90,16 @@ def find_role_by_id(job_id: int, role_mapping: Dict[str, List[int]]) -> Optional
 def main() -> None:
     # Resolve project root dynamically based on requested pattern
     base_dir = Path(__file__).resolve().parent.parent
+    reports_dir = base_dir / "Reports"
     role_mapping_path = base_dir / "role_mapping.json"
     skills_dir = base_dir / "Cleaned_Skills"
-    report_output_path = base_dir / "Reports" / "role_skill_analysis.json"
+    report_output_path = reports_dir / "role_skill_analysis.json"
+
+    def _safe_path(path: Path, allowed_dir: Path) -> Path:
+        resolved = path.resolve()
+        if not str(resolved).startswith(str(allowed_dir.resolve())):
+            raise ValueError(f"Access denied: '{resolved}' is outside '{allowed_dir}'")
+        return resolved
 
     logger.info("Initializing role skill frequency analysis pipeline...")
 
@@ -132,7 +139,8 @@ def main() -> None:
             continue
 
         # Load file skills structure data
-        extracted_data = load_json_file(file_path)
+        resolved_file = _safe_path(file_path, skills_dir)
+        extracted_data = load_json_file(resolved_file)
         if not extracted_data:
             continue
 
@@ -168,7 +176,8 @@ def main() -> None:
     # 5. Write analytical results array payload out safely to the file system
     try:
         report_output_path.parent.mkdir(parents=True, exist_ok=True)
-        with open(report_output_path, "w", encoding="utf-8") as out_file:
+        safe_output = _safe_path(report_output_path, reports_dir)
+        with open(safe_output, "w", encoding="utf-8") as out_file:
             json.dump(final_analysis_report, out_file, indent=4, ensure_ascii=False)
         logger.info(f"Analysis successfully saved to directory: {report_output_path}")
     except Exception as e:

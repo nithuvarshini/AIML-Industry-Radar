@@ -1,13 +1,14 @@
 import json
-from pathlib import Path
+import os
 
-BASE_DIR = Path(__file__).resolve().parent.parent
+_SCRIPTS_DIR = os.path.dirname(os.path.abspath(__file__))
+_BASE_DIR = os.path.realpath(os.path.join(_SCRIPTS_DIR, ".."))
 
-EXTRACTED_DIR = BASE_DIR / "Extracted_Skills"
-CLEANED_DIR = BASE_DIR / "Cleaned_Skills"
-MASTER_SKILLS_FILE = BASE_DIR / "master_skills.txt"
+EXTRACTED_DIR = os.path.realpath(os.path.join(_BASE_DIR, "Extracted_Skills"))
+CLEANED_DIR = os.path.realpath(os.path.join(_BASE_DIR, "Cleaned_Skills"))
+MASTER_SKILLS_FILE = os.path.join(_BASE_DIR, "master_skills.txt")
 
-CLEANED_DIR.mkdir(exist_ok=True)
+os.makedirs(CLEANED_DIR, exist_ok=True)
 
 NORMALIZATION_MAP = {
     "ml": "Machine Learning",
@@ -35,9 +36,8 @@ NORMALIZATION_MAP = {
 
 
 def load_master_skills():
-    if not MASTER_SKILLS_FILE.exists():
+    if not os.path.exists(MASTER_SKILLS_FILE):
         return set()
-
     with open(MASTER_SKILLS_FILE, "r", encoding="utf-8") as f:
         return {line.strip() for line in f if line.strip()}
 
@@ -56,8 +56,17 @@ def normalize_skill(skill):
     return skill
 
 
-def process_file(input_file, output_file):
-    with open(input_file, "r", encoding="utf-8") as f:
+def _safe_join(directory: str, filename: str) -> str:
+    path = os.path.realpath(os.path.join(directory, os.path.basename(filename)))
+    if not path.startswith(directory + os.sep):
+        raise ValueError(f"Access denied: '{path}' is outside '{directory}'")
+    return path
+
+
+def process_file(input_filename: str, output_filename: str):
+    input_path = _safe_join(EXTRACTED_DIR, input_filename)
+    output_path = _safe_join(CLEANED_DIR, output_filename)
+    with open(input_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
     cleaned_data = {}
@@ -83,24 +92,16 @@ def process_file(input_file, output_file):
 
         cleaned_data[category] = unique_skills
 
-    with open(output_file, "w", encoding="utf-8") as f:
+    with open(output_path, "w", encoding="utf-8") as f:
         json.dump(cleaned_data, f, indent=4, ensure_ascii=False)
 
 
 def main():
-
-    json_files = list(EXTRACTED_DIR.glob("*.json"))
-
+    json_files = [f for f in os.listdir(EXTRACTED_DIR) if f.endswith(".json")]
     print(f"Found {len(json_files)} files")
-
-    for file_path in json_files:
-
-        output_path = CLEANED_DIR / file_path.name
-
-        process_file(file_path, output_path)
-
-        print(f"Processed {file_path.name}")
-
+    for filename in json_files:
+        process_file(filename, filename)
+        print(f"Processed {filename}")
     print("Done")
 
 
